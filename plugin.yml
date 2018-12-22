@@ -1,0 +1,7 @@
+main: net.theuniverscraft.Freebuild.Freebuild
+name: Freebuild
+version: 0.1
+commands:
+  freebuild:
+    aliases: [free, build, fb, donnemaparcelle]
+    usage: /<command> home [number]
